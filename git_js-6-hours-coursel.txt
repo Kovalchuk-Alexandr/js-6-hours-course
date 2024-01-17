@@ -1,0 +1,10 @@
+echo "# js-6-hours-course" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/Kovalchuk-Alexandr/js-6-hours-course.git
+git push -u origin master
+
+Description:
+Layout of the main page of an online store with JavaScript interactivity, tabs and Swiper slider, and mobile adaptation.
